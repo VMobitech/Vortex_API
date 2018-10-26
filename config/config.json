@@ -1,0 +1,12 @@
+{
+    "secret": "148fd855885",
+    "refreshTokenSecret": "some-secret-refresh-token-shit",
+    "port": 3000,
+    "tokenLife": 900,
+    "refreshTokenLife": 86400,
+    
+    "dburl":"mongodb://localhost:27017/ver",
+    "secretekey":"vertech@#$@123",
+    "image_path":"http://versatilemobitech.co.in/Vortext_M/images/"
+}
+
